@@ -9,7 +9,7 @@ from fastapi.templating import Jinja2Templates
 from wedding.backend.db import schemas
 
 app = FastAPI()
-
+#https://wikidocs.net/176934
 
 
 # 사용자 정보를 저장하는 데이터베이스를 구현합니다.
